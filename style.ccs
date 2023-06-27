@@ -105,7 +105,7 @@ h1, h2, h3, .top-title {
 
 /* business */
 .businesses {
-    width: 100%;
+    width: 90%;
     margin: 0 auto;
     display: flex;
     align-items: baseline;
@@ -115,7 +115,7 @@ h1, h2, h3, .top-title {
 
 .business {
     margin: 0 auto;
-    width: 25%;
+    width: 20%;
     min-width: 260px;
     display: flex;
     justify-content: space-between;
