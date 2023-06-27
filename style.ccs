@@ -236,6 +236,8 @@ h1, h2, h3, .top-title {
 }
 .sellingexpences-table {
     font-size: 12px;
+    border-collapse: separate;
+    border-spacing: 0;
     border: 2px #808080 solid;
 }
 .sellingexpences-table th, .sellingexpences-table td, .sellingexpences-table td input {
